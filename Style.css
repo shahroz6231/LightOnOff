@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(1, 54, 119);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#myImage{
+    width: 200px;
+    height: 200px;
+}
+button{
+    background-color: #FFDF00;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+#main{
+    margin-top: 100px;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
